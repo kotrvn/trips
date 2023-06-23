@@ -1,0 +1,16 @@
+.input {
+  margin-left: 16px;
+  border: 1px solid #ddd;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  box-shadow: none;
+  margin-right: 16px;
+  outline: rgba(#1976d2, .6);
+  font-size: 16px;
+  color: #333;
+  text-decoration: none;
+
+  &:focus {
+    border-color: #1976d2;
+  }
+}
